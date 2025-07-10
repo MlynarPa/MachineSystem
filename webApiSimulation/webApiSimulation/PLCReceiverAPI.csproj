@@ -1,0 +1,6 @@
+﻿namespace webApiSimulation
+{
+    public class PLCReceiverAPI
+    {
+    }
+}

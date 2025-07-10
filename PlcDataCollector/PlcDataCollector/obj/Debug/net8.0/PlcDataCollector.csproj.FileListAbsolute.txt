@@ -1,0 +1,17 @@
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\bin\Debug\net8.0\PlcDataCollector.exe
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\bin\Debug\net8.0\PlcDataCollector.deps.json
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\bin\Debug\net8.0\PlcDataCollector.runtimeconfig.json
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\bin\Debug\net8.0\PlcDataCollector.dll
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\bin\Debug\net8.0\PlcDataCollector.pdb
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\bin\Debug\net8.0\S7.Net.dll
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\PlcDataCollector.csproj.AssemblyReference.cache
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\PlcDataCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\PlcDataCollector.AssemblyInfoInputs.cache
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\PlcDataCollector.AssemblyInfo.cs
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\PlcDataCollector.csproj.CoreCompileInputs.cache
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\PlcDataC.15618FE4.Up2Date
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\PlcDataCollector.dll
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\refint\PlcDataCollector.dll
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\PlcDataCollector.pdb
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\PlcDataCollector.genruntimeconfig.cache
+C:\Users\Mlynar\OneDrive - WoodForest\PLC-Reader\PlcDataCollector\PlcDataCollector\obj\Debug\net8.0\ref\PlcDataCollector.dll

@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|c:\\users\\mlynar\\onedrive - woodforest\\plc-reader\\webapisimulation\\webapisimulation\\webapisimulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|solutionrelative:webapisimulation\\webapisimulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|c:\\users\\mlynar\\onedrive - woodforest\\plc-reader\\webapisimulation\\webapisimulation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|solutionrelative:webapisimulation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|c:\\users\\mlynar\\onedrive - woodforest\\plc-reader\\webapisimulation\\webapisimulation\\controllers\\machinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|solutionrelative:webapisimulation\\controllers\\machinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|c:\\users\\mlynar\\onedrive - woodforest\\plc-reader\\webapisimulation\\webapisimulation\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|solutionrelative:webapisimulation\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|c:\\users\\mlynar\\onedrive - woodforest\\plc-reader\\webapisimulation\\webapisimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|solutionrelative:webapisimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|c:\\users\\mlynar\\onedrive - woodforest\\plc-reader\\webapisimulation\\webapisimulation\\plcreceiverapi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|solutionrelative:webapisimulation\\plcreceiverapi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|c:\\users\\mlynar\\onedrive - woodforest\\plc-reader\\webapisimulation\\webapisimulation\\webapisimulation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C781B059-F736-45C3-B4C2-7F442B54347F}|webApiSimulation\\webApiSimulation.csproj|solutionrelative:webapisimulation\\webapisimulation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\Models\\Machine.cs",
+              "RelativeDocumentMoniker": "webApiSimulation\\Models\\Machine.cs",
+              "ToolTip": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\Models\\Machine.cs",
+              "RelativeToolTip": "webApiSimulation\\Models\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:20:00.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "webApiSimulation.csproj",
+              "DocumentMoniker": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\webApiSimulation.csproj",
+              "RelativeDocumentMoniker": "webApiSimulation\\webApiSimulation.csproj",
+              "ToolTip": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\webApiSimulation.csproj",
+              "RelativeToolTip": "webApiSimulation\\webApiSimulation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T08:19:45.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MachinesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\Controllers\\MachinesController.cs",
+              "RelativeDocumentMoniker": "webApiSimulation\\Controllers\\MachinesController.cs",
+              "ToolTip": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\Controllers\\MachinesController.cs",
+              "RelativeToolTip": "webApiSimulation\\Controllers\\MachinesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:19:40.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PLCReceiverAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\PLCReceiverAPI.csproj",
+              "RelativeDocumentMoniker": "webApiSimulation\\PLCReceiverAPI.csproj",
+              "ToolTip": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\PLCReceiverAPI.csproj",
+              "RelativeToolTip": "webApiSimulation\\PLCReceiverAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T08:20:43.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "webApiSimulation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "webApiSimulation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T09:00:27.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "webApiSimulation",
+              "DocumentMoniker": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\webApiSimulation.csproj",
+              "RelativeDocumentMoniker": "webApiSimulation\\webApiSimulation.csproj",
+              "ToolTip": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\webApiSimulation.csproj",
+              "RelativeToolTip": "webApiSimulation\\webApiSimulation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T09:00:26.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "webApiSimulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Mlynar\\OneDrive - WoodForest\\PLC-Reader\\webApiSimulation\\webApiSimulation\\Program.cs",
+              "RelativeToolTip": "webApiSimulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:18:04.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
