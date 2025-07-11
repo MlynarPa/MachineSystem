@@ -1,7 +1,17 @@
 ﻿using PlcDataCollector.Services;
 
 // IP PLC, rack, slot
-var plcReader = new PlcReader("192.168.0.10", 0, 1);
+PlcReader plcReader;
+try
+{
+    plcReader = new PlcReader("192.168.0.10", 0, 1);
+    Console.WriteLine("✅ PLC připojení navázáno");
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"❌ Chyba připojení k PLC: {ex.Message}");
+    return;
+}
 
 // ⚠️ Komunikace přes localhost, protože běží na stejném zařízení
 var apiSender = new ApiSender("http://localhost:5500/api/machines");
