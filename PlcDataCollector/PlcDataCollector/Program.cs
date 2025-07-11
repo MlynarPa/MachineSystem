@@ -13,9 +13,8 @@ catch (Exception ex)
     return;
 }
 
-// 🔧 Zařízení má IP 192.168.0.11 a PLC je na 192.168.0.10
-// Web API na zařízení tedy oslovujeme přes jeho IP adresu
-var apiSender = new ApiSender("http://192.168.0.11:5500/api/machines");
+// ⚠️ Komunikace přes localhost, protože běží na stejném zařízení
+var apiSender = new ApiSender("http://localhost:5500/api/machines");
 
 while (true)
 {
