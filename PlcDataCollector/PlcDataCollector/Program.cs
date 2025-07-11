@@ -3,8 +3,8 @@
 // IP PLC, rack, slot
 var plcReader = new PlcReader("192.168.0.10", 0, 1);
 
-// ⚠️ Tady změna: Tailscale IP místo localhost
-var apiSender = new ApiSender("http://100.115.13.31:5500/api/machines");
+// ⚠️ Komunikace přes localhost, protože běží na stejném zařízení
+var apiSender = new ApiSender("http://localhost:5500/api/machines");
 
 while (true)
 {
